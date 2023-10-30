@@ -1,0 +1,181 @@
+*{margin-left: 10px;
+    margin-top: 0;
+    
+}
+h3{
+    color: aliceblue;
+}
+
+/* .line{
+    display: inline-block;
+    height: 20px;
+    width: 1450px;
+    background-color:rgb(157, 5, 165) ;
+}
+.line1{
+    display: inline-block;
+    height: 20px;
+    width: 1450px;
+    background-color:rgb(157, 5, 165) ;
+} */
+
+#hi{
+    font-size: 40px;
+    color: rgb(243, 237, 237);
+    font-family: 'Times New Roman', Times, serif;
+}
+#name{
+    font-size: 60px;
+    color: rgb(196, 109, 201);
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.profilebackground{
+    display: flexbox;
+    justify-content: space-between;
+    height: 400px;
+    width: 1400px;
+    background-color: rgb(16, 15, 15);
+    /* padding-left: 50px; */
+    border: double 15px  rgb(157, 5, 165) ;
+    border-left: double 15px rgb(157, 5, 165);
+    border-right: double 15px rgb(157, 5, 165);
+    border-bottom: double 15px rgb(157, 5, 165);
+    border-radius: 10px;
+     
+}
+.profilecontent{
+    background-color: black;
+    color: rgb(251, 251, 252);
+    display: inline-flex;
+    justify-content: space-evenly;
+    line-height: 55px;
+    height: 100px;
+    width:500px ;
+    border-radius: 20px;
+   border: solid,wheat,5px;
+   font-family: 'Times New Roman', Times, serif;
+    
+    margin-left: 1500px;
+    
+   
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+
+}
+.firstprofile{
+    display: inline-flex;
+    justify-content: space-evenly;
+    height: 400px;
+    width: 400px;
+   
+    background-color: black;
+    background-image: url("White Handwritten Love on Black Background Square Pillow_20231028_180210_0000.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-right: 100px;
+   
+    
+}
+
+
+
+#mom{
+    color:  rgb(157, 5, 165);
+    font-style: bold ;
+}
+
+
+.moreabout{
+    display: inline-block;
+    background-color: rgb(157, 5, 165);
+    height: 7px;
+    width: 1400px;}
+    #moreaboutcon{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#CSS{
+    font-size: 35px;
+}
+#HTML{
+    font-size: 35px;
+}
+#ui{
+    font-size: 35px;
+}
+
+ .fa-css3-alt{
+    
+   font-size: 100px;
+   margin-right: 240px;
+   margin-left: 50px;
+}
+.fa-html5{
+    font-size: 100px;
+    margin-right: 240px;
+    justify-content: center;
+}
+.fa-laptop-code{
+    font-size: 100px;
+    margin-right: 40px;
+    
+}
+footer{
+    background-color: rgb(29, 26, 26);
+    color: aliceblue;
+    font-size: 30px;
+    height:370px ;
+    width: 1400px;
+    border: double 10px rgb(157, 5, 165);
+
+   
+}
+#linkedin{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: black;
+    margin-left: 250px;
+}
+.fa-linkedin{
+    font-size: 50px;
+    color: aliceblue;
+}
+#github{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: black;
+    margin-left: 250px;
+}
+.fa-github{
+    font-size: 50px;
+    color: aliceblue;
+}
+#instagram{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: black;
+    margin-left: 250px;
+}
+.fa-instagram{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+    
+
+
+.projects{
+    display: inline-block;
+    height: 400px;
+    width: 1000px;
+    background-color: gray;
+}
